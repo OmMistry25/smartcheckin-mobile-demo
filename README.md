@@ -1,7 +1,7 @@
 
 # SmartCheckIn Mobile Demo
 
-This is a lightweight mobile demo built with **Expo (React Native)** to showcase how businesses or event apps can use **SmartCheckIn** to verify a user's presence at a physical location using geolocation — no manual check-in needed.
+This is a lightweight mobile demo built with **Expo (React Native)** to showcase how businesses or event apps can use **SmartCheckIn** to verify a user's presence at a physical location using geolocation, no manual check-in needed.
 
 ---
 ##  Mobile Demo Video
@@ -16,7 +16,7 @@ This is a lightweight mobile demo built with **Expo (React Native)** to showcase
 - Sends to the SmartCheckIn backend (`/api/checkin`)
 - Returns whether the user is **inside** or **outside** a specified event radius
 - Built for use by event platforms, attendance systems, and RSVP flows
-- ✅ Works on **iOS**, **Android**, and **web**
+- Works on **iOS**, **Android**, and **web**
 
 ---
 
