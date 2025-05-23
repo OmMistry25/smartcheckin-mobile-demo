@@ -8,6 +8,8 @@ This is a lightweight mobile demo built with **Expo (React Native)** to showcase
 
 [Click here to watch the demo video](https://github.com/OmMistry25/smartcheckin-mobile-demo/releases/tag/v1.0.0)
 
+---
+
 ## Features
 
 - Automatically fetches user location
